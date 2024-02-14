@@ -1,0 +1,172 @@
+/* for all pages */
+body {
+    background-color: rgb(231, 165, 231);
+}
+/*top of page 1*/
+.newheart {
+    width: 300px;
+    height: 400px;
+}
+#text{
+    font-size: 22px;
+}
+#title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xxx-large;
+    font-family: "Apple Chancery";
+}
+#message1{
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#page1title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#museum {
+    height: 551px;
+    width: 329px;
+    border-radius: 20px;
+}
+
+#yes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#page1Title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#title{
+    font-size: 70px;
+}
+
+#yes1, #yes2 {
+    font-size: 30px;
+    margin: 20px;
+    border-radius: 10px;
+}
+#yes1{
+    padding: 30px;
+    font-family: "Bradley Hand";
+}
+#yes2{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: "Trattatello";
+}
+#yes2:hover{
+}
+#text{
+    font-family: AppleGothic ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ /*top of page2*/
+
+.loml{
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+}
+#page1 {
+    justify-content: center;
+    align-items: center;
+}
+
+    /*words for message page*/
+    #words1,  #words3 {
+        font-size: 30px;
+        padding-left: 70px;
+    }
+
+    #words2, #words4{
+        font-size: 30px;
+        padding-right: 70px;
+    }
+    /*containers*/
+    #container1, #container2, #container3, #container4 {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 50px;
+    }
+
+    #pic2 {
+        height: 432px;
+        width: 432px;
+    }
+
+    /*last page*/
+    #lastBtn{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #nextBtn {
+        font-size: 50px;
+        border-color: transparent;
+        font-family: "Academy Engraved LET";
+        background-color:  rgb(231, 165, 231);
+        padding-top: 25px;
+        padding-left: 25px;
+        padding-right: 25px;
+        border-radius: 10px;
+    }
+    #nextBtn:hover{
+        background-color: rgb(136, 98, 136);
+        border-color: transparent;
+        padding-top: 25px;
+        padding-left: 25px;
+        padding-right: 25px;
+        border-radius: 10px;
+    }
+    a {
+        text-decoration: none;
+    }
+
+    /*last page*/
+    #ily, #tysm{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: "AkayaKanadaka";
+    }
+    #ily {
+        font-size: 100px;
+    }
+    #tysm{
+        font-size: x-large;
+    }
+    #backBtn{
+        background-color:  rgb(231, 165, 231);
+        font-size: 25px;
+        border-color: transparent;
+        font-family: "Academy Engraved LET";
+        padding-top: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        border-radius: 10px;
+    }
+    #backBtn:hover{
+        background-color: rgb(136, 98, 136);
+        border-color: transparent;
+        border-radius: 10px;
+    }
+    #attempt{
+        background-image: url("https://i.pinimg.com/originals/02/74/8c/02748cfa4f77b694b9e291a04cb6e48d.gif");
+        background-size:cover;
+    }
+
+
